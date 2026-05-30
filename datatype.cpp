@@ -12,6 +12,5 @@ string c = "vansh jaswal";
  cout<< b<<endl;
  cout<< c << endl;
  cout<< grade<< endl;
-
-
+  
 }

@@ -23,7 +23,7 @@ int main()
             break;
 
         case 4:
-            cout << "una wali";
+            cout << "una wal";
             break;
 
         default:

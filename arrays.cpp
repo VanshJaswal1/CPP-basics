@@ -7,6 +7,8 @@ int main() {
     cout<< arr[2]<<endl;
  // printing a whole array
  for( int i=0; i<6; i++) {
-  cout<< arr[i];
+  cout<< arr[i]<<endl;
  }
+  cout<< sizeof(arr)<<endl;
+
 }

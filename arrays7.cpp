@@ -8,7 +8,7 @@ int main() {
         if(arr[i]%2 == 0){
           
             count++; 
-            
+            // count = count + 1;
         }
     }
   cout<< "the total number of even numbers areee =  "<< count;

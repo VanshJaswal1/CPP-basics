@@ -12,11 +12,11 @@ int main() {
     }
  }
  cout<<" the largest number is "<< large;
- int small = arr[n];
+ int small = arr[0];
  for( int n=0;n<5;n++){
 
-    if(arr[i]>small) {
-        small = arr[i];
+    if(arr[n]<small) {
+        small = arr[n];
     }
  }
   cout<<" the smallest number is "<<small;
